@@ -37,6 +37,7 @@ namespace KMTestWebApp1
             }
 
             app.UseHttpsRedirection();
+            
 
             app.UseRouting();
 
